@@ -21,7 +21,10 @@ function ShelvingSection() {
 
 					{/* Shelving section image */}
 					<div className='md:w-6/12 lg:pt-12 md:pt-0 pt-10  '>
-						<Img url='../../../../../img/img2.png' styles='md:w-9/12 md:pl-14' />
+						<Img
+							url='https://images.unsplash.com/photo-1538688525198-9b88f6f53126?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZnVybml0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60'
+							styles='md:w-9/12 md:pl-14'
+						/>
 					</div>
 				</div>
 			</div>

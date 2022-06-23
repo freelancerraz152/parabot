@@ -9,7 +9,10 @@ function CoffeeSection() {
 				<div className='flex flex-col md:flex-row items-center  '>
 					{/* coffee section image */}
 					<div className='md:w-6/12  md:pt-6 '>
-						<Img url='../../../../../img/img1.png' styles='lg:w-9/12 md:w-11/12 lg:pl-14 pl-0' />
+						<Img
+							url='https://images.unsplash.com/photo-1526134679303-e64bf84c176e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZnVybml0dXJlJTIwdGFiZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60'
+							styles='lg:w-9/12 md:w-11/12 lg:pl-14 pl-0'
+						/>
 					</div>
 					{/* coffee section content */}
 					<div className='md:w-6/12 md:pl-10 pt-12 '>
